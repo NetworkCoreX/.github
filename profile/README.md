@@ -16,8 +16,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NetworkCoreX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetworkCoreX&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+
 
 </div>
 
