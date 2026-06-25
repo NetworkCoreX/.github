@@ -1,14 +1,23 @@
 <div align="center">
 
+<img src="./assets/banner.png" width="100%" />
+
 # ⚡ NetworkCoreX
 
-<img width="1536" height="519" alt="networkcorex-banner" src="./assets/banner.png" />
-
 ### Modern Minecraft Systems. Clean Architecture.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron\&size=28\&duration=3000\&pause=1200\&color=00B0FF\&center=true\&vCenter=true\&width=850\&lines=Modern+Minecraft+Systems;Fabric+%26+Paper+Development;Infrastructure+%26+Automation;Clean+Architecture+%26+Performance)](https://github.com/NetworkCoreX)
+
+<br>
 
 [![Made with Passion](https://img.shields.io/badge/Made%20with-Passion-7c4dff.svg)](https://github.com/NetworkCoreX)
 [![Development](https://img.shields.io/badge/Focus-Minecraft%20Development-00b0ff.svg)](https://github.com/NetworkCoreX)
 [![Fabric & Paper](https://img.shields.io/badge/Platform-Fabric%20%26%20Paper-blue.svg)](https://github.com/NetworkCoreX)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NetworkCoreX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetworkCoreX&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
 
 </div>
 
