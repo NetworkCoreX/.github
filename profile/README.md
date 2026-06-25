@@ -6,7 +6,7 @@
 
 ### Modern Minecraft Systems. Clean Architecture.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron\&size=28\&duration=3000\&pause=1200\&color=00B0FF\&center=true\&vCenter=true\&width=850\&lines=Modern+Minecraft+Systems;Fabric+%26+Paper+Development;Infrastructure+%26+Automation;Clean+Architecture+%26+Performance)](https://github.com/NetworkCoreX)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00B0FF&center=true&vCenter=true&width=850&lines=Modern+Minecraft+Systems;Fabric+%26+Paper+Development;Infrastructure+%26+Automation;Clean+Architecture+%26+Performance)](https://github.com/NetworkCoreX)
 
 <br>
 
@@ -66,7 +66,7 @@ The main goal is to build:
 
 <div align="center">
 
-|   ⚡ Focus   |        💡 Goal       |
+|   ⚡ Focus   |        💡 Goal        |
 | :---------: | :------------------: |
 |  Clean Code | Maintainable Systems |
 | Performance |  Optimized Solutions |
