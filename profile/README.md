@@ -2,7 +2,7 @@
 
 # ⚡ NetworkCoreX
 
-<img width="1536" height="519" alt="networkcorex-banner" src="https://github.com/user-attachments/assets/YOUR-BANNER-ID-HERE" />
+<img width="1536" height="519" alt="networkcorex-banner" src="./assets/banner.png" />
 
 ### Modern Minecraft Systems. Clean Architecture.
 
